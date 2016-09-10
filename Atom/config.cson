@@ -1,0 +1,43 @@
+"*":
+  "code-stats-atom":
+    apiKey: ""
+  core:
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".flowconfig"
+      ]
+      "source.json": [
+        ".arcconfig"
+        "BUCK.autodeps"
+      ]
+      "source.jsx": [
+        "javascript"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
+    disabledPackages: [
+      "tree-view"
+      "file-types"
+      "activate-power-mode"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/Yreg/Documents/vacuum"
+  editor:
+    preferredLineLength: 115
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+    tabType: "hard"
+  "exception-reporting":
+    userId: ""
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  linter:
+    errorPanelHeight: 133
+  nuclide:
+    "nuclide-home":
+      showHome: false
+  welcome:
+    showOnStartup: false
