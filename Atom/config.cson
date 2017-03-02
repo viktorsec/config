@@ -29,7 +29,7 @@
     showIndentGuide: true
     showInvisibles: true
     softTabs: false
-    tabType: "hard"
+    tabType: "soft"
   "exception-reporting":
     userId: ""
   "file-watcher":
