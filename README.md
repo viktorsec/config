@@ -9,4 +9,9 @@ Disable App restrictions autodefaulting to Mac App Store every 30 days
 Show hidden files
 
 `defaults write com.apple.finder AppleShowAllFiles YES`
+
 `killall Finder`
+
+Install Aerial Apple TV wallpaper
+
+`brew cask install aerial`
