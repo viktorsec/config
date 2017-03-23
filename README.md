@@ -15,3 +15,9 @@ Show hidden files
 Install Aerial Apple TV wallpaper
 
 `brew cask install aerial`
+
+### git
+
+don't have to --set-upstream
+
+`git config push.default current`
