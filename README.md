@@ -21,3 +21,7 @@ Install Aerial Apple TV wallpaper
 don't have to --set-upstream
 
 `git config push.default current`
+
+### atom
+
+`apm install nuclide`
