@@ -16,6 +16,11 @@ Install Aerial Apple TV wallpaper
 
 `brew cask install aerial`
 
+### terminal
+
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+`brew cask install hyper`
+
 ### git
 
 don't have to --set-upstream
@@ -25,3 +30,17 @@ don't have to --set-upstream
 ### atom
 
 `apm install nuclide`
+
+packages
+
+- atom-react-native-autocomplete
+- code-stats-atom
+- figlet
+- linter-eslint
+- markdown-preview-plus
+- merge-conflicts
+- minimap
+- minimap-pigments
+- redux-devtools
+- trailing-spaces
+- activate-power-mode
