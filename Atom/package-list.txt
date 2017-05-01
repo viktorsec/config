@@ -1,0 +1,15 @@
+activate-power-mode
+busy-signal
+code-stats-atom
+figlet
+intentions
+linter
+linter-eslint
+linter-ui-default
+markdown-preview-plus
+merge-conflicts
+minimap
+minimap-pigments
+nuclide
+redux-devtools
+trailing-spaces

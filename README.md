@@ -27,24 +27,12 @@ Install Aerial Apple TV wallpaper
 
 ### git
 
+`git config --global user.email "hey@viktorsec.com" && git config --global user.name "Viktor Sec"`
+
 don't have to --set-upstream
 
 `git config push.default current`
 
 ### atom
 
-`apm install nuclide`
-
-packages
-
-- atom-react-native-autocomplete
-- code-stats-atom
-- figlet
-- linter-eslint
-- markdown-preview-plus
-- merge-conflicts
-- minimap
-- minimap-pigments
-- redux-devtools
-- trailing-spaces
-- activate-power-mode
+`apm install --packages-file package-list.txt`
