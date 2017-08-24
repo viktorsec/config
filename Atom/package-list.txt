@@ -13,3 +13,4 @@ minimap-pigments
 nuclide
 redux-devtools
 trailing-spaces
+tree-view
