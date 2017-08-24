@@ -1,5 +1,17 @@
 # config
 
+## Apps
+
+- 1Password
+- Atom
+- Chrome
+- Dropbox
+- Slack
+- Spotify
+- Steam
+- Transmission
+- Wine and XQuartz
+
 ## macOS
 
 Disable App restrictions autodefaulting to Mac App Store every 30 days
@@ -22,7 +34,12 @@ Install Aerial Apple TV wallpaper
 
 ### terminal
 
+#### Oh My Zsh
+
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+#### Hyper.js
+
 `brew cask install hyper`
 
 ### git
