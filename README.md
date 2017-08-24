@@ -22,6 +22,7 @@ Install Extensions
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
+#### CoconutBattery
 #### DaisyDisk
 #### Dropbox
 #### iStat Menus
@@ -30,7 +31,7 @@ Install Extensions
 #### Spotify
 #### Steam
 #### Transmission
-#### Transmitj
+#### Transmit
 #### Wine and XQuartz
 #### Xcode
 
