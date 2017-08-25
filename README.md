@@ -32,6 +32,7 @@ Install Extensions
 #### Steam
 #### Transmission
 #### Transmit
+#### VLC
 #### Wine and XQuartz
 #### Xcode
 
