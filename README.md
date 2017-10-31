@@ -8,6 +8,7 @@
 1. `cp Atom/config.cson ~/.atom/config.cson`
 2. `apm install --packages-file Atom/package-list.txt`
 
+#### CheatSheet
 #### Chrome
 
 Install Extensions
@@ -25,13 +26,16 @@ Install Extensions
 #### CoconutBattery
 #### DaisyDisk
 #### Dropbox
+#### iA Writer
 #### iStat Menus
 #### Pixelmator
 #### Slack
+#### Spectacle
 #### Spotify
 #### Steam
 #### Transmission
 #### Transmit
+#### Tunnelblick
 #### VLC
 #### Wine and XQuartz
 #### Xcode
@@ -73,7 +77,7 @@ Disable App restrictions autodefaulting to Mac App Store every 30 days
 1. `sudo spctl --master-disable` (since macOS Sierra)
 2. `sudo defaults write /Library/Preferences/com.apple.security GKAutoRearm -bool NO`
 
-Disable spaces rearranging
+Disable spaces rearranging (Auto Swoosh)
 
 `defaults write com.apple.dock workspaces-auto-swoosh -bool NO`
 
