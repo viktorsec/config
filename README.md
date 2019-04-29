@@ -2,43 +2,73 @@
 
 ## Apps
 
-#### 1Password
-#### Atom
+- 1Password
+- CheatSheet
+- Chrome
+- CoconutBattery
+- DaisyDisk
+- Discord
+- Dropbox
+- Firefox
+- Handbrake
+- iMovie
+- iStat Menus
+- Pixelmator
+- Slack
+- Spectacle
+- Spotify
+- Steam
+- Transmission
+- Transmit
+- Tunnelblick
+- VLC
+- Wine and XQuartz
+- Xcode
 
-1. `cp Atom/config.cson ~/.atom/config.cson`
-2. `apm install --packages-file Atom/package-list.txt`
-
-#### CheatSheet
-#### Chrome
-
-Install Extensions
+### Chrome Extensions
 
 - [1Password](https://chrome.google.com/webstore/detail/1password-password-manage/aomjjhallfgjeglblehebfpbcfeobpgk)
 - [Bumpercar Candysnatch](https://chrome.google.com/webstore/detail/bumpercar-candysnatch/gfgeflpiolnadakikfnhlmlmnbmadbaj)
-- [Goo.gl Shortener](https://chrome.google.com/webstore/detail/url-shortener-lite-with-g/mnnkfmkiefebamlmijhohmjaajilnlen)
+- Disig Web Signer
+- [Full Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Hover Zoom](https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl)
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+- [Tamper Chrome](https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-#### CoconutBattery
-#### DaisyDisk
-#### Dropbox
-#### iA Writer
-#### iStat Menus
-#### Pixelmator
-#### Slack
-#### Spectacle
-#### Spotify
-#### Steam
-#### Transmission
-#### Transmit
-#### Tunnelblick
-#### VLC
-#### Wine and XQuartz
-#### Xcode
+### VSCode Extensions
+
+- Docker
+- ESLint
+- markdownlint
+- Nasc VSCode Touchbbar
+- One Dark Pro
+- TSLint
+
+### macOS Dock order:
+
+- Finder
+- Launchpad
+- Mac App Store
+- Chrome
+- Firefox
+- Safari
+- Slack
+- Spotify
+- Steam
+- 1Password
+- VSCode
+- Xcode
+- Hyper
+- System Preferences
+- Transmit
+- Calendar
+- TextEdit
+- VLC
 
 ## macOS
 
